@@ -1,7 +1,7 @@
 {
   "name": "Studio의 변수 인수 및 제어 흐름",
   "description": "빈 프로세스",
-  "main": "Main.xaml",
+  "main": "인수-Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
     "UiPath.Mail.Activities": "[1.8.6]",
