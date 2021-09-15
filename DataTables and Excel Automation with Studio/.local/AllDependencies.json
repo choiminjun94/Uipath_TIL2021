@@ -5019,9 +5019,9 @@
     "restore": {
       "projectUniqueName": "DataTables and Excel Automation with Studio",
       "projectName": "DataTables and Excel Automation with Studio",
-      "projectPath": "C:\\Users\\1020a\\OneDrive\\바탕 화면\\Uipath-clone\\Uipath_TIL2021\\DataTables and Excel Automation with Studio\\.local",
+      "projectPath": "C:\\Users\\1020a\\OneDrive\\바탕 화면\\clone\\DataTables and Excel Automation with Studio\\.local",
       "packagesPath": "C:\\Users\\1020a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1020a\\OneDrive\\바탕 화면\\Uipath-clone\\Uipath_TIL2021\\DataTables and Excel Automation with Studio\\.local"
+      "outputPath": "C:\\Users\\1020a\\OneDrive\\바탕 화면\\clone\\DataTables and Excel Automation with Studio\\.local"
     },
     "frameworks": {
       "net461": {
